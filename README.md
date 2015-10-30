@@ -1,5 +1,8 @@
 # PI-Web-API-Programming-Online-Course
-JavaScript and C# source code for the online source "Programming in PI Web API".
+JavaScript and C# source code for the online course "Programming in PI Web API". 
+
+##Getting Started
+Complete walkthrough of the code can be found in the videos avaiable at the [course website](https://pisquare.osisoft.com/community/Master-PI/programming-in-pi-web-api). If you are taking the course, please feel free to download or fork the repository so you can work off your own copy. You will need to change the server name, username and password for the code to work on your environment.
 
 ##Licensing
 Copyright 2015 OSIsoft, LLC.
